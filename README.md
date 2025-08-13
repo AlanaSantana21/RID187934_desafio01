@@ -1,3 +1,5 @@
 # RID187934_desafio01
-O formulário deste projeto foi integrado com o Formspree, pois o SheetMonkey está dando erro na página de informações coletadas.
+
 Link do site disponibilizado: https://landingpagedesafio01.netlify.app/
+
+Link do formulário da coleta de dados: https://docs.google.com/spreadsheets/d/1JfF7vomdDvgWI2RQZRRxsiW9SOoXJ_7jGBRKaFHC6oA/edit?usp=sharing
